@@ -1,6 +1,6 @@
 # Genetic-Algorithm
 
-In project Evolutionary Steering Behavious:
+In project Evolutionary Steering Behaviors:
 
 The first generation has 500 elements..
 
